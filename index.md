@@ -4,7 +4,6 @@
 title: Welcome
 ---
 
-<a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
 <h1>Welcome!</h1>
 
